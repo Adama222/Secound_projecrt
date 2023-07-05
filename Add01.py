@@ -1,5 +1,5 @@
 a = 10 
-b = 20
+b = 50
 if a == 10:
     print("True")
 else:
